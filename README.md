@@ -12,4 +12,4 @@ This repo is more focused on git commands, their flags, .gitconfig and .gitignor
 - push
 - pull
 
-Git Deep Dive Part 2 will focus on team development unless I find a way to move everything here.
+Git Deep Dive Part 2 focuses on team development unless I find a way to merge the two repos without losing commits.
