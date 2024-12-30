@@ -1,6 +1,7 @@
 # Git Deep Dive Part 1
 
 This repo is more focused on git commands, their flags, .gitconfig and .gitignore used in solo development like:
+- log
 - add
 - commit (--amend, -m)
 - switch (-c)
