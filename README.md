@@ -3,7 +3,7 @@
 This repo is more focused on git commands, their flags, .gitconfig, .gitignore and GitHub functions used in solo development like:
 - status
 - add
-- commit (--amend, -m)
+- commit (-m, --amend, --no-edit)
 - log (--oneline, --all, --graph, -n, --no-pager, --decorate)
 - cat-file (-p)
 - branch (-d, -D, -m)
