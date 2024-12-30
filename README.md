@@ -4,7 +4,7 @@ This repo is more focused on git commands, their flags, .gitconfig and .gitignor
 - log (--oneline, --all, --graph, -n)
 - add
 - commit (--amend, -m)
-- switch (-c)
+- switch (gen Z checkout) (-c)
 - branch (-d, -D)
 - merge
 - rebase
